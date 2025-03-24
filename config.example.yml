@@ -1,0 +1,8 @@
+PLEX_URL: http://localhost:32400
+PLEX_TOKEN: YOUR_PLEX_TOKEN
+MOVIE_LIBRARY_NAME: Movies
+GDRIVE_URL: https://drive.google.com/drive/folders/128O8hwhxmPppwJ3ssGKQoepMrKLB5tNA
+GOOGLE_API_KEY: YOUR_GOOGLE_API_KEY
+RETRY_COOLDOWN: 30
+PATH_MAPPINGS:
+  "/media": "P:/media"
