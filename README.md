@@ -1,3 +1,5 @@
+//As per October 2026, Themerr has been revived, which makes this script redundant. [Check Themerr out here.](https://github.com/LizardByte/Themerr)
+
 # 🎵 Movie Theme Downloader for Plex (TDFP) 🎬
 
 This script automatically matches your Plex movies with movie themes from [/r/PlexThemes'](https://www.reddit.com/r/PlexThemes/) /u/chainwood's Google Drive and downloads them to the correct locations.
